@@ -1,1 +1,2 @@
 # Shuffle-Game
+This program is good example of using graphics concept to develop an application using C++. Under this game a number game has been prepared by which users will able to get graphical mode on command line interface. Users will have to just run the program and program will guide the users how to play the game and exit from it. In order to run the program users have to first give the proper path of the graphics driver which is available under bgi.
